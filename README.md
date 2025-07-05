@@ -52,4 +52,6 @@ Build dashboards for finance or customer analytics teams
 
 🤝 About the Author
 
-Vinod ChouhanAzure Data Engineer | Databricks Certified | Python & PySpark Enthusiast📧 chouhanvinod473@gmail.com🔗 LinkedIn
+Vinod Chouhan
+Azure Data Engineer | Databricks Certified | Python & PySpark Enthusiast
+📧 chouhanvinod473@gmail.com🔗 https://www.linkedin.com/in/vinodchouhan/
